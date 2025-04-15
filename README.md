@@ -16,7 +16,7 @@ Described in the following paper: [**https://arxiv.org/abs/2305.07759.**](https:
 
 **Structure:**
 
-  Content: Thousands of short stories (a few paragraphs each) with:
+  Thousands of short stories (a few paragraphs each) with:
    - Simple Vocabulary: Basic words and straightforward sentence structures.
    - Diverse Genres: Fantasy, adventure, everyday scenarios, etc.
    - Clear Narratives: Defined beginnings, middles, and ends, often with moral lessons.
