@@ -1,5 +1,6 @@
 # GPT-2
-![gpt-2-logo](https://github.com/user-attachments/assets/fbcc6091-135b-4b0c-b1a5-af7c6c373944)
+![11](https://github.com/user-attachments/assets/262fee40-e278-4930-92ff-f56c9c32562a)
+
 ## Overview:
 OpenAI GPT-2 model was proposed in [**Language Models are Unsupervised Multitask Learners**](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf) by Alec Radford, Jeffrey Wu, Rewon Child, David Luan, Dario Amodei and Ilya Sutskever from OpenAI.
 
